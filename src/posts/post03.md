@@ -1,12 +1,10 @@
 ---
-slug: "/first-post"
-date: "2018-10-16"
-title: "Our First Post"
+slug: "/third-post"
+date: "2018-10-21"
+title: "Our 3rd Post"
 ---
 
-# Hello
-
-Lorem ipsum dolor amet chia hella kitsch, mumblecore green juice vape lumbersexual +1 meh mlkshk tumblr cold-pressed DIY. Cloud bread taxidermy iPhone normcore wolf. Cray air plant pitchfork, sustainable tacos gentrify church-key tattooed fanny pack blog. Brooklyn fam offal lyft XOXO, swag literally lumbersexual chia venmo direct trade vinyl you probably haven't heard of them. Migas cornhole pok pok poutine man bun thundercats pickled marfa keytar master cleanse bespoke fam. Migas bicycle rights YOLO cold-pressed small batch cornhole subway tile kombucha deep v meggings pabst retro cray gastropub try-hard. Everyday carry +1 hot chicken freegan, kogi pok pok lumbersexual pitchfork cornhole letterpress polaroid gentrify gochujang cronut.
+# 3rd Postxxx
 
 Occupy shaman hot chicken, meditation af lomo cred messenger bag neutra XOXO yuccie cornhole schlitz. Scenester keffiyeh pop-up, activated charcoal butcher mlkshk tote bag gentrify taiyaki four loko. Waistcoat sriracha taxidermy keytar tote bag chicharrones jean shorts hexagon letterpress mixtape skateboard marfa. Craft beer four dollar toast neutra affogato, bushwick vape vexillologist yuccie brunch tattooed pork belly ugh. Viral four dollar toast kickstarter slow-carb VHS mumblecore letterpress. Yr pickled austin tofu put a bird on it food truck palo santo artisan intelligentsia slow-carb sartorial taiyaki forage tacos cardigan.
 

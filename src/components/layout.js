@@ -10,6 +10,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 import { Helmet } from 'react-helmet'
 import Header from "./header"
+import Archive from "./archive"
 
 import "./layout.css"
 
@@ -27,7 +28,7 @@ const Layout = ({ children }) => {
   return (
     <>
 
-<Helmet
+        <Helmet
           title={data.site.siteMetadata.title}
           meta={[
             {
@@ -48,13 +49,10 @@ const Layout = ({ children }) => {
           paddingTop: 0,
         }}
       >
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+        {children}
+       
       </div>
+      <Archive />
     </>
   )
 }
