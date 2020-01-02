@@ -2,8 +2,9 @@ import React from 'react';
 
 import Layout from '../components/layout';
 
-const about = () => (
-	<Layout>
+const about = ({location}) => (
+    
+	<Layout location={location}>
 		<div>
 			<h1>About</h1>
 			<p>
