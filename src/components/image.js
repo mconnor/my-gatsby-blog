@@ -13,10 +13,10 @@ import Img from "gatsby-image"
  * - `useStaticQuery`: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-const Image = (props) => {
+const Image = ({img}) => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { regex: "/bg/" }) {
+      placeholderImage: file(relativePath: { regex: "/lilWildMan/" }) {
         childImageSharp {
           fluid(maxWidth: 300) {
             ...GatsbyImageSharpFluid_tracedSVG

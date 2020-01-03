@@ -2,10 +2,10 @@ import React from "react"
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import styled from 'styled-components';
-import logo from '../images/gatsby-icon.png';
+import logo from '../images/meTruck.jpg';
 
 const HeaderWrapper = styled.div`
-    background: blue;
+    background: #647E8C;
     img {
         margin-bottom: 0;
         width: 100px;

@@ -62,7 +62,7 @@ const Layout = ({ children, location }) => {
       <Header siteTitle={data.site.siteMetadata.title} />
 
          <animated.div style={{overflow:'hidden', border: '1px solid blue', height}}>
-             <Image img="bg.jpg" />
+             <Image img="lilWildMan" />
         </animated.div>
     
      
