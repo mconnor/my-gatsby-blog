@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `My Glorious Blog`,
-    description: `Articles about technology`,
-    author: `@gatsbyjs`,
+    title: `Mike's Blog`,
+    description: `Articles about stuff`,
+    author: `@caution_mike`,
     siteUrl: 'https://pensive-bhabha-decba0.netlify.com/'
   },
   plugins: [
@@ -27,7 +27,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Mike's blow`,
+        name: `Mike's Blog`,
         short_name: `mBlog`,
         start_url: `/`,
         background_color: `#647E8C`,
