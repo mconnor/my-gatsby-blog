@@ -3,6 +3,7 @@ module.exports = {
     title: `My Glorious Blog`,
     description: `Articles about technology`,
     author: `@gatsbyjs`,
+    siteUrl: 'https://pensive-bhabha-decba0.netlify.com/'
   },
   plugins: [
     `gatsby-plugin-styled-components`,
@@ -26,13 +27,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Mike's blow`,
+        short_name: `mBlog`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#647E8C`,
+        theme_color: `#647E8C`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/meTruck.jpg`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
@@ -40,6 +41,7 @@ module.exports = {
     'gatsby-plugin-offline',
     'gatsby-transformer-remark',
     'gatsby-plugin-netlify-cms',
+    'gatsby-plugin-sitemap',
     `gatsby-plugin-netlify`, // make sure to put last in the array
   ],
 }
