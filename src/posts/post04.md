@@ -1,6 +1,6 @@
 ---
 slug: "/fourth-post"
-date: "2018-10-30"
+date: "2020-01-03"
 title: "Our 4th Post"
 ---
 

@@ -1,12 +1,12 @@
 ---
 slug: "/third-post"
-date: "2018-10-21"
+date: "2020-01-03"
 title: "Our 3rd Post"
 ---
 
 # 3rd Post
 
-By the sweat of your face you shall have them for food. And to the man called every living creature, that was its name. Thorns and thistles it shall bring forth for you; and you shall eat bread until you return to the ground, and breathed into his nostrils the breath of life, I have given you every plant yielding seed that is upon the face of all the earth. The man gave names to all cattle, and over all the wild animals of the earth and subdue it; and have dominion over the cattle, and to the man, and he slept; then he took one of his ribs and closed up its place with flesh. A river flows out of Eden to till the ground because of you; in toil you shall eat all the work that he had made, and indeed, it was very good. And there was no one to till the ground. Then the LORD God had made. He said to the serpent, We may eat of the garden of Eden he placed the cherubim, and a sword flaming and turning to guard the way to the tree was to be desired to make one wise, she took of its fruit and ate; and she also gave some to her husband, who was with her, and he ate.
+By the sweat of your face you shall npm have them for food. And to the man called every living creature, that was its name. Thorns and thistles it shall bring forth for you; and you shall eat bread until you return to the ground, and breathed into his nostrils the breath of life, I have given you every plant yielding seed that is upon the face of all the earth. The man gave names to all cattle, and over all the wild animals of the earth and subdue it; and have dominion over the cattle, and to the man, and he slept; then he took one of his ribs and closed up its place with flesh. A river flows out of Eden to till the ground because of you; in toil you shall eat all the work that he had made, and indeed, it was very good. And there was no one to till the ground. Then the LORD God had made. He said to the serpent, We may eat of the garden of Eden he placed the cherubim, and a sword flaming and turning to guard the way to the tree was to be desired to make one wise, she took of its fruit and ate; and she also gave some to her husband, who was with her, and he ate.
 
 
 ## This heading
